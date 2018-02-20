@@ -1,0 +1,23 @@
+#wrapper {
+    width: 900px;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin-top: 70px;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#info {
+    display: inline-block;
+    vertical-align: top;
+}
+
+img {
+    display: inline-block;
+    margin-left: 376px;
+    width: 35%;
+    vertical-align: top;
+}
